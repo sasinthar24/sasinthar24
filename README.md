@@ -161,8 +161,8 @@ I'm a software engineer who loves making slow things fast and fragile things rel
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=sasinthar24&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&icon_color=24c6dc&text_color=ffffff" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasinthar24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" />
+<!-- <img height="180" src="https://raw.githubusercontent.com/sasinthar24/sasinthar24/output/github-contribution-grid-snake-dark.svg" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sasinthar24&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc&text_color=ffffff" /> -->
 
 <br/>
 
