@@ -1,7 +1,7 @@
 <!-- ═══════════════ HEADER ═══════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Sasinthar%20Elayaperumal&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Full-Stack&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24c6dc&height=230&section=header&text=Sasinthar%20Elayaperumal&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Backend%20and%20Full-Stack%20Software%20Engineer&descSize=18&descAlignY=58&animation=fadeIn&v=2" width="100%" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=900&color=24C6DC&center=true&vCenter=true&width=700&lines=5+Years+Building+Scalable+Backends+%E2%9A%A1;C%23+%7C+ASP.NET+Core+%7C+Kafka+%7C+Kubernetes;Cut+API+latency+by+35%25+%7C+Automated+60%25+of+manual+ops;Now+exploring+RAG+%26+Agentic+AI+%F0%9F%A4%96" alt="Typing SVG" />
